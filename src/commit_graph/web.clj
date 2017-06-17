@@ -24,14 +24,3 @@
   (let [port (Integer. (or (System/getenv "PORT") "8080"))]
     (start port)))
 
-;; (ns commit-graph.handler)
-
-;; (require '[ring.middleware.json :refer [wrap-json-response]]
-;;          '[ring.util.response :refer [response]])
-
-;; (def app
-;;   (wrap-json-response handler))
-;; (defn handler
-;;   commits/routes
-;;   (route/resources "/"))
-

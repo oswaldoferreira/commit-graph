@@ -1,19 +1,9 @@
 # commit-graph
 
-FIXME
+Just playing with Clojure, caching with Redis and Postgres.
 
-## Prerequisites
+Nothing fancy to see here for now :smile:
 
-You will need [Leiningen][] 2.0.0 or above installed.
+## LICENSE
 
-[leiningen]: https://github.com/technomancy/leiningen
-
-## Running
-
-To start a web server for the application, run:
-
-    lein ring server
-
-## License
-
-Copyright © 2017 FIXME
+MIT
